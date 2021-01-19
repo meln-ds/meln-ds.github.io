@@ -1,5 +1,5 @@
 ---
-title: Daily Rituals: How Artists Work by Mason Currey
+title: Daily Rituals How Artists Work by Mason Currey
 date: 2020-10-12 11:33:00 +0800
 categories: [book-notes]
 tags: [productivity]     # TAG names should always be lowercase
