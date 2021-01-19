@@ -23,4 +23,7 @@ I finished watching [“Don’t F*ck With Cats”](https://youtu.be/x41SMm-9-i4)
 
 ## Quote of the week
 
-“Have you ever noticed that if there’s a hard way and an easy way, you choose the hard way every time? Why do you think that is?” - *Barack Obama, A Promised Land*
+> “Have you ever noticed that if there’s a hard way and an easy way, you choose the hard way every time? Why do you think that is?”
+*Barack Obama, A Promised Land*
+
+Charge in, guns blazing!
