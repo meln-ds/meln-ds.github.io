@@ -26,4 +26,4 @@ Hi there, my name is Mel (she/her), and this is a peek into my world on the Inte
 
 ## Get In Touch
 
-I'm best reachable via [email](mel.nguyen273@gmail.com).
+I'm best reachable via [email](mailto:mel.nguyen273@gmail.com).
