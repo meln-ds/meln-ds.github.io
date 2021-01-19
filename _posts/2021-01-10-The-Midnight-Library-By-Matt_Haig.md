@@ -1,6 +1,6 @@
 ---
 title: The Midnight Library by Matt Haig
-date: YYYY-MM-DD HH:MM:SS +/-0800
+date: YYYY-MM-DD HH:MM:SS +0800
 categories: [book-notes]
 tags: [fiction, life lessons]     # TAG names should always be lowercase
 ---
