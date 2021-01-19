@@ -21,9 +21,9 @@ Hi there, I'm Mel (she/her), and welcome to my humble abode.
 
 ## Other Stuffs
 
-🤓I am a constant learner. The most memorable experience was back in 2019, when I completed a whole 6 courses of Python in 2 weeks because I never thought I'd one day get a conditional offer to study Data Science. Since then, I've valued the experience of self-taught learning a lot more, and know that with enough effort and curiosity, knowledge is never truly out of reach.
-🇻🇳I was born in and will forever call Saigon my home. Have you ever tried slurping a bowl of phở in the middle of Saigon's ridiculous traffic? Trust me, it’s freaking awesome.
-🛫I love travelling to new lands and drinking coffee. In short, I like drinking coffee in as many different landscapes as possible. Most memorable one? An instant coffee at 2 am in the morning at 2800m above sea level, prior to our ascend to [Mt. Fansipan](https://en.wikipedia.org/wiki/Fansipan)
+🤓I am a constant learner. The most memorable experience was back in 2019, when I completed a whole 6 courses of Python in 2 weeks because I never thought I'd one day get a conditional offer to study Data Science. Since then, I've valued the experience of self-taught learning a lot more, and know that with enough effort and curiosity, knowledge is never truly out of reach.  
+🇻🇳I was born in and will forever call Saigon my home. Have you ever tried slurping a bowl of phở in the middle of Saigon's ridiculous traffic? Trust me, it’s freaking awesome.  
+🛫I love travelling to new lands and drinking coffee. In short, I like drinking coffee in as many different landscapes as possible. Most memorable one? An instant coffee at 2 am in the morning at 2800m above sea level, prior to our ascend to [Mt. Fansipan](https://en.wikipedia.org/wiki/Fansipan)  
 
 ## Get In Touch
 
