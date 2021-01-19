@@ -1,5 +1,5 @@
 ---
-title: Boredom vs. Fear
+title: Boredom vs Fear
 date: YYYY-MM-DD HH:MM:SS +0800
 categories: [sunday-snippets]
 tags: [life, think-roam]     # TAG names should always be lowercase
