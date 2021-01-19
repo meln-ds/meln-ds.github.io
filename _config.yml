@@ -9,7 +9,7 @@
 # --------------------------
 title: Mel Nguyen                          # the main title
 
-tagline: A perpetually curious cat   # it will display as the sub-title
+tagline: A man does what he can until destiny is revealed to him (or her).   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Product, Data, Growth.
@@ -59,8 +59,8 @@ google_analytics:
     cache: false  # pv data local cache, good for the users from GFW area.
 
 disqus:
-  comments: false  # boolean type, the global switch for posts comments.
-  shortname: ''    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+  comments: true  # boolean type, the global switch for posts comments.
+  shortname: 'melnguyen'    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 
 # Prefer color scheme setting.
