@@ -1,6 +1,6 @@
 ---
 title: Boredom vs Fear
-date: YYYY-MM-DD HH:MM:SS +0800
+date: 2021-01-17 11:33:00 +0800
 categories: [sunday-snippets]
 tags: [life, think-roam]     # TAG names should always be lowercase
 ---
