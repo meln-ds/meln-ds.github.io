@@ -26,9 +26,9 @@ I am at a low-point in life myself, so when I picked up this book, I was sucked 
 ### What I Liked About It
 The Midnight Library uses the concept of parallel universe to illustrate one point – the only way to learn is to live, and that while it is so easy to think about the stuff that we could have had or we don’t have, it does not mean that our life is not worth living. It is the regret that makes us spiral down a staircase of despair. Nora had thought she could find an alternative life where she would be happy, but even when she thought she did, it was not right. Because she didn’t live that life. She got the results but did not go through the journey.
 
-It took me so long so move on from Cherie because I thought I would regret letting her out of my life forever. There may exist a life where we are married. In this root life, we are not. I don’t get to experience a parallel life like Nora, but I know that someone who walked away the minute it gets difficult isn’t someone I should have serious feelings for.
-
 > Because, Nora, sometimes the only way to learn is to live.  
+
+I had decided not to include my favorite quotes in the book here because of the potential spoilers, but once you read the book yourself, I trust that the sentences you are going to underline will be same sentences I did.  
 
 ### What I Didn’t Like About It
 
